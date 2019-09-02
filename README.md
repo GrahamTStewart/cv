@@ -1,2 +1,2 @@
 # cv
-First project in web development course
+First project in web development course.
